@@ -1,0 +1,35 @@
+{
+  "name": "stream-transformer",
+  "version": "0.0.0",
+  "description": "A simple tool to transform streams via registered global or keyed handlers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brian-gates/stream-transformer.git"
+  },
+  "keywords": [
+    "stream",
+    "transformer",
+    "data",
+    "processing",
+    "transform",
+    "streaming",
+    "node.js",
+    "node"
+  ],
+  "author": "Brian Gates <brian.g.gates@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brian-gates/stream-transformer/issues"
+  },
+  "devDependencies": {
+    "should": "~3.1.2",
+    "mocha": "~1.17.1"
+  }
+}
