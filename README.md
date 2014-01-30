@@ -1,4 +1,4 @@
-# stream-transformer
+# stream-transformer [![devDependency Status](https://david-dm.org/brian-gates/stream-transformer.png?theme=shields.io)](https://david-dm.org/brian-gates/stream-transformer.png#info=devDependencies)
 
 A simple tool to transform streams via registered global or keyed handlers
 
